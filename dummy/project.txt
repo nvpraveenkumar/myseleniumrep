@@ -1,0 +1,10 @@
+git init      ( will create .git hidden folder in the project path)
+
+git status    ( shows in red color which mean it is not moved to github)
+
+git config --global user.name "nvpraveenkumar"
+
+git config --global user.email "nv.praveen.kumar@gmail.com"
+
+
+git add .
